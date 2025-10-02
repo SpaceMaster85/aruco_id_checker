@@ -1,0 +1,11 @@
+<package format="3">
+  <name>aruco_pose_publisher</name>
+  <version>0.0.2</version>
+  <description>Publishes PoseStamped of selected Aruco marker</description>
+  <maintainer email="you@example.com">You</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>aruco_markers_msgs</depend>
+</package>
