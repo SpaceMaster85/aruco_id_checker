@@ -1,5 +1,5 @@
 <package format="3">
-  <name>aruco_pose_publisher</name>
+  <name>aruco_id_checker</name>
   <version>0.0.2</version>
   <description>Publishes PoseStamped of selected Aruco marker</description>
   <maintainer email="you@example.com">You</maintainer>
